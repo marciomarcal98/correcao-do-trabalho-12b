@@ -1,0 +1,42 @@
+body {
+    background-color: #000000;
+    color: #ffffff;
+}
+
+#titulo-geral {
+    background-color: #324a5f;
+}
+
+h2 {
+    background-color: #1b2a41;
+}
+
+.subtitulos {
+    background-color: #0c1821;
+}
+
+h1, h2, h3 {
+    padding: 10px;
+    border-radius: 10px;
+}
+
+img {
+    width: 800px;
+    height: 800px;
+}
+
+a {
+    font-size: 20pt;
+    background-color: #ccc9dc;
+    color: #000000;
+    text-decoration: none;
+
+    padding: 10px;
+    border-radius: 10px;
+    border: 1px solid #ccc9dc;
+}
+
+a:hover {
+    color: #ccc9dc;
+    background-color: #000000;
+}
